@@ -1,0 +1,27 @@
+.fs{
+    flex-direction: column;
+    align-self:center;
+    align-items: start;
+  text-align: center;
+    
+}
+.new{
+  align-items: center;
+  text-align: center;
+
+}
+.ss{
+  width: 25px;
+  align-items: center;
+  text-align: center;
+  /* display: flex; */
+}
+.new1{
+text-align:center;
+text-align: center;
+
+}
+.new2{
+  /* float: right; */
+/* width: 20px; */
+}
